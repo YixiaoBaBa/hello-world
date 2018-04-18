@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Chao:
+Jack here, I like sport and sing song!!
